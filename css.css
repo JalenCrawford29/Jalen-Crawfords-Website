@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+};
+
+.tabs123 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+}
+
+.cart123 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+};
+
+.page {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
